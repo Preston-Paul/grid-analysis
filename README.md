@@ -44,14 +44,12 @@ This repository contains a Python notebook that analyzes publicly available grid
   . File Structure
 
 - `Electric-grid.ipynb` - Main analysis notebook containing all code and visualizations.
-- (Optional) `requirements.txt` - List of required Python packages.
 
-  . Notes
+  .Notes
 
 - This tool is intended for exploratory analysis and visualization of MISO grid data. For operational or commercial decisions, always consult the latest official MISO data and planning resources.
 - No sensitive or proprietary data is used; all data is sourced from public MISO datasets.
 
-  . Credits
 
 Developed by Preston A.  
 Data sourced from MISO public grid data.
